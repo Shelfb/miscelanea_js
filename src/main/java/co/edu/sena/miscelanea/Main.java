@@ -334,12 +334,12 @@ public class Main
         break;
 
         case 4:
-        System.out.println("Este menú se encuentra en mantenimiento, escoja otra opción.");
+        System.out.println("Aún no hay ejercicios para este menú, por favor escoja otra opción.");
 
         break;
 
         case 99:
-        System.out.println("¡Hasta luego!");
+        System.out.println("¡Hasta pronto!");
         System.exit(0);
         break;
       
